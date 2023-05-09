@@ -1,0 +1,10 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+#logo {width: 100px}
+.bg-primary {background-color: #2D447C !important; }
+#services {background-color: #2D447C !important;}
+#gallery {background-color: #2D447C !important;}
+#footer {background-color: #2D447C !important;}
+#services {color: white}
+#gallery {color: white}
+#page-top {font-family: "Montserrat"}
+#header {font-style: italic}
